@@ -1,2 +1,2 @@
 Sample Text!
-"Update with Tortoise…"
+"Update with Tortoise"
